@@ -1,6 +1,7 @@
 # Gallery-Application-Java
 
 ** Project Overview **
+
 This Gallery Application is a desktop-based image viewer built using Java AWT (Abstract Window Toolkit). The application allows users to
 - Open and display image files
 - Navigate through images in the same directory
